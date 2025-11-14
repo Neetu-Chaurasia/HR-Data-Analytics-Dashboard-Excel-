@@ -11,13 +11,9 @@ An interactive Power BI dashboard that provides key insights into employee demog
 * Job Role and Marital Status insights
 * Interactive filters by Department and Education Field
 
-### 🛠 Tools Used
-
-* **Power BI** for visualization
-* **Excel/CSV** for data source
-
 ### 💡 Insights
 
 * Highest attrition in **Sales department**
 * Most attrition from **25–34 age group** and **Bachelor’s degree holders**
 
+<img width="1071" height="529" alt="image" src="https://github.com/user-attachments/assets/1c143696-b49d-4b00-b046-f79e34bc8245" />
